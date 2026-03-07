@@ -166,6 +166,9 @@ multi-agent-prd-reviewer-slack/
 
 **Shows:** V1→V2 iteration, CLI→Team integration, Single→Multi-agent, Individual→Organizational impact
 
+"NOTE: This is the public portfolio version. 
+The production version is private and includes company-specific enhancements."
+
 ---
 
 **Built by:** Dimos Papadopoulos  
